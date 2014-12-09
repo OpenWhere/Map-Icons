@@ -1,0 +1,20 @@
+{
+  "name": "Map-Icons",
+  "version": "2.1",
+  "homepage": "https://github.com/OpenWhere/Map-Icons",
+  "authors": [
+  ],
+  "description": "Map Icons",
+  "main": [
+  	"css/map-icons.css",
+  	"js/map-icons.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
